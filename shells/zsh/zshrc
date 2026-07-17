@@ -82,6 +82,7 @@ plugins=(
 
 source $ZSH/oh-my-zsh.sh
 
+compdef kubecolor=kubectl
 # User configuration
 
 # export MANPATH="/usr/local/man:$MANPATH"
